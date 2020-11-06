@@ -1,4 +1,4 @@
-package com.fiprs.springbootdemo.controller;
+package com.fiprs.springbootdemo.controller.demo;
 
 import com.alibaba.fastjson.JSONObject;
 import com.fiprs.springbootdemo.service.DemoService;
